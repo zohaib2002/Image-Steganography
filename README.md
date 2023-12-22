@@ -1,5 +1,5 @@
 # Image Steganography
-This project was submitted to University of Mumbai as a partial requirement for the fulfillment of Mini Project 2B (CSM501).
+This project was submitted to University of Mumbai as a partial requirement for the fulfillment of Mini Project 2B (CSM501). It utilizes Least Significant Bit (LSB) method to encode a payload into an image.
 
 ## Features of `imgstegano.py`
 - Allows you to encode / hide a text or a file of any type (even a zip file) into an image.
