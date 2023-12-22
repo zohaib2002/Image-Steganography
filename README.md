@@ -36,4 +36,4 @@ This project was submitted to University of Mumbai as a partial requirement for 
 
 
 ## Credits for Test Images
-- `venice.jpg` : [Sea Glass](https://www.facebook.com/photo.php?fbid=10152367139309042)
+- `venice.png` : [Sea Glass](https://www.facebook.com/photo.php?fbid=10152367139309042)
